@@ -1,0 +1,14 @@
+{
+    "name": "iM3Lib_Preferences",
+    "version": "1.0.0",
+    "description": "Library for handling ESP32 preferences",
+    "authors": [
+      {
+        "name": "Oscar Barciela",
+        "email": "osbarciela@gmail.com"
+      }
+    ],
+    "license": "MIT",
+    "frameworks": "arduino",
+    "platforms": "espressif32"
+  }
